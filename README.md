@@ -17,4 +17,4 @@ Welcome to the Duck Shooter Game, a thrilling game developed in assembly languag
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/duck-shooter-game.git
+   git clone https://github.com/haroonwajid/duck-shooter-game.git
